@@ -4,7 +4,7 @@ Analista de segurança da informação em constante evolução, apaixonado pelo 
 
 ### Conecte-se comigo
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=30A3DC)](https://www.linkedin.com/in/alexsandro-cyber/)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=30A3DC)](https://www.linkedin.com/in/alexsilva-sh/)
 
 ### GitHub Stats
 
