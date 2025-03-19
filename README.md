@@ -26,7 +26,7 @@
 
 ###
 
-<p align="left">I'm ... from ....<br><br>- 🔭 Eu trabalho na ISH Tecnologia, lutando contra ameaças cibernéticas o tempo todo. <br>- 📚 Atualmente estou me especializando em investigação forense. <br>- ⚡ No meu tempo livre, faço academia, corro e faço umas gameplays (tudo isso ouvindo música, o tempo todo). </p>
+<p align="left"><br>- 🔭 Eu trabalho na ISH Tecnologia, lutando contra ameaças cibernéticas o tempo todo. <br>- 📚 Atualmente estou me especializando em investigação forense. <br>- ⚡ No meu tempo livre, faço academia, corro e faço umas gameplays (tudo isso ouvindo música, o tempo todo). </p>
 
 ###
 
