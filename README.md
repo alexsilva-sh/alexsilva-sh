@@ -35,7 +35,7 @@
 ###
 
 <div align="left">
-  <img src="[https://cdn.jsdelivr.net/npm/@azure/core-paging@1.6.2/dist/browser/index.min.js](https://icons8.com.br/icon/g7UKWvv49CoI/microsoft-365)" height="40" alt="go logo"  />
+  <img src="https://icons8.com.br/icon/g7UKWvv49CoI/microsoft-365" height="40" alt="go logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-original.svg" height="40" alt="rust logo"  />
   <img width="12" />
