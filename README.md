@@ -30,7 +30,7 @@
 <h3 align="left">🔥 Minhas estatísticas :</h3>
 
 <div align="center">
-  <img src="[![GitHub Streak](https://streak-stats.demolab.com/?user=alexsilva-sh)](https://git.io/streak-stats)" />
+  <img src="[![GitHub Streak]https://streak-stats.demolab.com/?user=alexsilva-sh" />
 </div>
 
 <div align="center">
