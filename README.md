@@ -26,8 +26,7 @@
 <p align="left"><br>- 🔭 Eu trabalho na ISH Tecnologia, lutando contra ameaças cibernéticas o tempo todo. <br>- 📚 Atualmente estou me especializando em investigação forense. <br>- ⚡ No meu tempo livre, faço academia, corro e faço umas gameplays (tudo isso ouvindo música) </p>
 
 ###
-[![GitHub Streak](https://streak-stats.demolab.com?user=alexsilva-sh&locale=pt_BR&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
-
+[![GitHub Streak](https://streak-stats.demolab.com?user=alexsilva-sh&locale=pt_BR&date_format=j%20M%5B%20Y%5D)
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=alexsilva-sh&hide_title=false&hide_rank=false&show_icons=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=alexsilva-sh&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph" />
