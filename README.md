@@ -18,24 +18,24 @@
 
 ###
 
-<h1 align="center">hey there 👋</h1>
+<h1 align="center">Olá visitante 👋</h1>
 
 ###
 
-<h3 align="left">👩‍💻  About Me</h3>
+<h3 align="left">👩‍💻  Sobre mim</h3>
 
 ###
 
-<p align="left">I'm ... from ....<br><br>- 🔭 I’m working as ...<br>- 📚 I'm currently learning ...<br>- ⚡ In my free time I ...</p>
+<p align="left">I'm ... from ....<br><br>- 🔭 Eu trabalho na ISH Tecnologia, lutando contra ameaças cibernéticas o tempo todo. <br>- 📚 Atualmente estou me especializando em investigação forense. <br>- ⚡ No meu tempo livre, faço academia, corro e faço umas gameplays (tudo isso ouvindo música, o tempo todo). </p>
 
 ###
 
-<h3 align="left">🛠 Language and tools</h3>
+<h3 align="left">🛠 Linguagens e Ferramentas</h3>
 
 ###
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" height="40" alt="go logo"  />
+  <img src="https://cdn.jsdelivr.net/npm/@azure/core-paging@1.6.2/dist/browser/index.min.js" height="40" alt="go logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-original.svg" height="40" alt="rust logo"  />
   <img width="12" />
