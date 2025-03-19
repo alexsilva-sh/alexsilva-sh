@@ -2,8 +2,6 @@
   <img height="150" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExdTZmcGg0ZGZva3pveHB4M3JxdDlhc3k4c216YXk4NjFvZm12N2MybiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif" />
 </div>
 
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=alexsilva-sh.readme.md&left_color=blue&right_color=green)
-
 <div align="center">
   <a href="https://www.linkedin.com/in/alexsilva-sh/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo" />
