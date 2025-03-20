@@ -18,6 +18,6 @@
 <p align="left"><br>- 🔭 Atualmente trabalhando como Analista de Ciberdefesa, lutando contra ameaças cibernéticas o tempo todo. <br>- 📚 Estou me especializando em investigação forense. <br>- ⚡ No meu tempo livre, treino musculação, corro e faço umas gameplays (tudo isso ouvindo música) <br>- 🎯 Eu sei que as estatísticas abaixo não estão boas, mas eu vou melhorar </p>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=alexsilva-sh&hide_title=false&hide_rank=false&show_icons=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api?username=alexsilva-sh&hide_title=false&hide_rank=false&show_icons=true&disable_animations=false&theme=dracula&locale=pt-br&hide_border=false&order=1" height="150" alt="stats graph" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=alexsilva-sh&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph" />
 </div>
