@@ -12,7 +12,7 @@
   <img src="https://visitor-badge.laobi.icu/badge?page_id=alexsilva-sh&" />
 </div>
 
-<h1 align="center">Olá, visitante (̶◉͛‿◉̶) 👋</h1>
+<h1 align="center">Olá, amigo ⌨️👋</h1>
 
 <h3 align="left">👩‍💻 Sobre mim</h3>
 <p align="left"><br>- 🔭 Eu trabalho na ISH Tecnologia, lutando contra ameaças cibernéticas o tempo todo. <br>- 📚 Atualmente estou me especializando em investigação forense. <br>- ⚡ No meu tempo livre, faço academia, corro e faço umas gameplays (tudo isso ouvindo música) </p>
