@@ -19,7 +19,6 @@
 <!-- FajarKim GitHub Readme Profile -->
 ![Cartão do GitHub Readme Profile](https://gh-readme-profile.vercel.app/api?username=alexsilva-sh&theme=iceberg&locale=pt-BR&hide=forks,prs&show=reviews,issues_closed,discussions_started,discussions_answered)
 
-<h3 align="left">Conquistas:</h3>
 <div align="left">
   <a href="https://github.com/ryo-ma/github-profile-trophies">
     <img src="https://github-profile-trophies.vercel.app/?username=alexsilva-sh&theme=dracula&no-frame=true&no-bg=true&margin-w=4" />
