@@ -33,3 +33,10 @@
   <br>
   <img src="https://github-readme-streak-stats.demolab.com/?user=alexsilva-sh&theme=dracula" alt="alexsilva-sh" />
 </div>
+
+<h3 align="center">Conquistas:</h3>
+<div align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophies">
+    <img src="https://github-profile-trophies.vercel.app/?username=alexsilva-sh&theme=dracula&no-frame=true&no-bg=true&margin-w=4" />
+  </a>
+</div>
