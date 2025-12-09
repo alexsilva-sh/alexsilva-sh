@@ -17,25 +17,11 @@
 <h3 align="left">👩‍💻 Sobre mim</h3>
 <p align="left"><br>- 🔭 Atualmente trabalhando como Analista de SOC 2, atuando com Respostas a Incidentes o tempo todo.<br>- 📚 Estou me especializando em investigação forense. <br>- ⚡ No meu tempo livre, faço musculação, corro e jogo videograme (tudo isso ouvindo música) <br>- 🎯 Eu sei que as estatísticas abaixo não estão boas, mas eu vou melhorar </p>
 
-<h3 align="center">Tecnologias:</h3>
-<p align="center"> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://grafana.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="40" height="40"/> </a> <a href="https://www.elastic.co/kibana" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/elasticco_kibana/elasticco_kibana-icon.svg" alt="kibana" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+<!-- FajarKim GitHub Readme Profile -->
+![Cartão do GitHub Readme Profile](https://gh-readme-profile.vercel.app/api?username=alexsilva-sh&theme=iceberg&locale=pt-BR&hide=forks,prs&show=reviews,issues_closed,discussions_started,discussions_answered)
 
-<h3 align="center">Estatísticas:</h3>
-<div align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="160" src="https://github-readme-stats.vercel.app/api?username=alexsilva-sh&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  </a>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexsilva-sh&layout=compact&langs_count=7&theme=dracula"/>
-  </a>
-</div>
-<div align="center">
-  <br>
-  <img src="https://github-readme-streak-stats.demolab.com/?user=alexsilva-sh&theme=dracula" alt="alexsilva-sh" />
-</div>
-
-<h3 align="center">Conquistas:</h3>
-<div align="center">
+<h3 align="left">Conquistas:</h3>
+<div align="left">
   <a href="https://github.com/ryo-ma/github-profile-trophies">
     <img src="https://github-profile-trophies.vercel.app/?username=alexsilva-sh&theme=dracula&no-frame=true&no-bg=true&margin-w=4" />
   </a>
