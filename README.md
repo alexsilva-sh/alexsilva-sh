@@ -22,7 +22,14 @@
 
 <h3 align="center">Estatísticas:</h3>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=alexsilva-sh&hide_title=false&hide_rank=false&show_icons=true&disable_animations=false&theme=dracula&locale=pt-br&hide_border=false&order=1" height="150" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=alexsilva-sh&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=alexsilva-sh&theme=dark" alt="alexsilva-sh" />
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img height="160" src="https://github-readme-stats.vercel.app/api?username=alexsilva-sh&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  </a>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexsilva-sh&layout=compact&langs_count=7&theme=dracula"/>
+  </a>
+</div>
+<div align="center">
+  <br>
+  <img src="https://github-readme-streak-stats.demolab.com/?user=alexsilva-sh&theme=dracula" alt="alexsilva-sh" />
 </div>
