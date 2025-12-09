@@ -13,9 +13,8 @@
 </div>
 
 <h1 align="center">Olá, amigo 👾💻</h1>
-
 <h3 align="left">👩‍💻 Sobre mim</h3>
-<p align="left"><br>- 🔭 Atualmente trabalhando como Analista de SOC 2, atuando com Respostas a Incidentes o tempo todo.<br>- 📚 Estou me especializando em investigação forense. <br>- ⚡ No meu tempo livre, faço musculação, corro e jogo videograme (tudo isso ouvindo música) <br>- 🎯 Eu sei que as estatísticas abaixo não estão boas, mas eu vou melhorar </p>
+<p align="left"><br>- 🔭 Atualmente trabalhando como Analista de SOC 2, atuando com Respostas a Incidentes o tempo todo.<br>- 📚 Estou me especializando em investigação forense. <br>- ⚡ No meu tempo livre, faço musculação, corro e jogo videograme (tudo isso ouvindo música) <br>- 🎯 "Sapere Aude!" -Kant </p>
 
 <!-- FajarKim GitHub Readme Profile -->
 ![Cartão do GitHub Readme Profile](https://gh-readme-profile.vercel.app/api?username=alexsilva-sh&theme=iceberg&locale=pt-BR&hide=forks,prs&show=reviews,issues_closed,discussions_started,discussions_answered)
