@@ -7,7 +7,7 @@
   Automatizo o trabalho repetitivo do SOC para sobrar tempo para investigar.</p>
 
   <a href="https://www.linkedin.com/in/alexsilva-sh/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <img src="https://img.shields.io/badge/SC--900-Microsoft-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" alt="SC-900" />
+  <img src="https://img.shields.io/badge/Security%2B-CompTIA-C8202F?style=for-the-badge" alt="CompTIA Security+" />
   <img src="https://visitor-badge.laobi.icu/badge?page_id=alexsilva-sh" alt="visitantes" />
 </div>
 
@@ -17,7 +17,7 @@
 
 - 🔭 Analista de SOC 2, atuando com **resposta a incidentes** no dia a dia.
 - 📚 Me especializando em **investigação forense**.
-- 🛠️ Escrevo ferramentas que tiram do analista o trabalho manual: triagem, relatório de incidente, análise de volumetria de alertas e reputação de IOCs.
+- 🛠️ Escrevo ferramentas que tiram do analista o trabalho manual: relatório de incidente, threat hunting e reputação de IOCs.
 - ⚡ Fora do trabalho: musculação, corrida e videogame, tudo com música.
 - 🎯 *"Sapere Aude!"*, Kant
 
@@ -28,9 +28,8 @@
 | [**IP-Shark**](https://github.com/alexsilva-sh/IP-Shark) | Análise de reputação de IPs, hashes e domínios com interface gráfica, consultando várias fontes de threat intelligence (VirusTotal, AbuseIPDB) e gerando relatório. |
 | [**network_scan_py**](https://github.com/alexsilva-sh/network_scan_py) | Varredura de rede em Python: hosts ativos e portas abertas em um range de IPs. |
 | [**cybersec-path**](https://github.com/alexsilva-sh/cybersec-path) | Trilha "Zero to Hero" de estudos em segurança cibernética. |
-| [**SC-900**](https://github.com/alexsilva-sh/SC-900) | O material que usei para passar na SC-900 com pontuação quase máxima. |
 
-**No dia a dia do SOC** também construo ferramentas internas: relatório de pós-incidente gerado automaticamente, triagem de chamados e análise de volumetria de alertas com apoio de IA, sempre com os dados do cliente pseudonimizados antes de sair da máquina.
+**No dia a dia do SOC** também construo ferramentas internas: relatório de pós-incidente gerado automaticamente e apoio ao threat hunting.
 
 ### 🧰 Ferramentas
 
