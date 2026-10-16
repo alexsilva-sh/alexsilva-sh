@@ -28,7 +28,7 @@
 
 ### 🧰 Ferramentas
 
-| | |
+| Área | Ferramentas |
 |---|---|
 | **SIEM e XDR** | <img src="https://img.shields.io/badge/Securonix-1F2937?style=flat-square" alt="Securonix" /> <img src="https://img.shields.io/badge/IBM_QRadar-052FAD?style=flat-square" alt="IBM QRadar" /> <img src="https://img.shields.io/badge/Microsoft_Sentinel-0078D4?style=flat-square" alt="Microsoft Sentinel" /> <img src="https://img.shields.io/badge/Harpia_SIEM-1F2937?style=flat-square" alt="Harpia SIEM" /> <img src="https://img.shields.io/badge/CrowdStrike-E01F26?style=flat-square" alt="CrowdStrike" /> <img src="https://img.shields.io/badge/Microsoft_Defender-0078D4?style=flat-square" alt="Microsoft Defender" /> |
 | **Threat intelligence** | <img src="https://img.shields.io/badge/VirusTotal-394EFF?style=flat-square&logo=virustotal&logoColor=white" alt="VirusTotal" /> <img src="https://img.shields.io/badge/AbuseIPDB-7A1F2B?style=flat-square" alt="AbuseIPDB" /> |
