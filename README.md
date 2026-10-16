@@ -1,17 +1,12 @@
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,60:1f3a68,100:1f6feb&height=180&section=header&text=Alexsandro%20Silva&fontSize=44&fontColor=ffffff&fontAlignY=36&desc=SOC%20%C2%B7%20Resposta%20a%20Incidentes%20%C2%B7%20Threat%20Hunting&descSize=17&descAlignY=58" alt="Alexsandro Silva" />
+
 <div align="center">
-  <img height="140" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExdTZmcGg0ZGZva3pveHB4M3JxdDlhc3k4c216YXk4NjFvZm12N2MybiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif" alt="" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=19&duration=3200&pause=900&color=58A6FF&center=true&vCenter=true&width=560&lines=Analista+de+SOC+na+Vision+Cybersecurity;Resposta+a+incidentes+e+forense+digital;Automatizo+o+trabalho+repetitivo+do+SOC" alt="Analista de SOC na Vision Cybersecurity" />
 
-  <h1>Alexsandro Silva</h1>
+  <br><br>
 
-  <p><b>Analista de SOC</b> na <b>Vision Cybersecurity</b> · Resposta a Incidentes · Forense digital<br>
-  Automatizo o trabalho repetitivo do SOC para sobrar tempo para investigar.</p>
-
-  <a href="https://www.linkedin.com/in/alexsilva-sh/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <img src="https://img.shields.io/badge/Security%2B-CompTIA-C8202F?style=for-the-badge" alt="CompTIA Security+" />
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=alexsilva-sh" alt="visitantes" />
+  <a href="https://www.linkedin.com/in/alexsilva-sh/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;<img src="https://img.shields.io/badge/Security%2B-CompTIA-C8202F?style=for-the-badge" alt="CompTIA Security+" />
 </div>
-
----
 
 ### 🧑‍💻 Sobre mim
 
@@ -44,9 +39,22 @@
   <img src="https://img.shields.io/badge/VirusTotal-394EFF?style=flat-square&logo=virustotal&logoColor=white" alt="VirusTotal" />
 </p>
 
-### 📊 GitHub
+### 📊 Atividade
 
 <div align="center">
-  <img src="https://gh-readme-profile.vercel.app/api?username=alexsilva-sh&theme=iceberg&locale=pt-BR&hide=forks,prs&show=reviews,issues_closed" alt="Resumo do perfil" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexsilva-sh&layout=compact&hide_border=true&locale=pt-br" alt="Linguagens mais usadas" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=alexsilva-sh&locale=pt_BR&hide_border=true&background=0D1117&ring=1F6FEB&fire=58A6FF&currStreakLabel=58A6FF&sideLabels=C9D1D9&dates=8B949E&currStreakNum=FFFFFF&sideNums=FFFFFF&stroke=30363D" />
+    <img src="https://streak-stats.demolab.com/?user=alexsilva-sh&locale=pt_BR&hide_border=true&ring=1F6FEB&fire=1F6FEB&currStreakLabel=1F6FEB" alt="Sequência de contribuições" />
+  </picture>
 </div>
+
+<br>
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/alexsilva-sh/alexsilva-sh/output/github-snake-dark.svg" />
+    <img width="100%" src="https://raw.githubusercontent.com/alexsilva-sh/alexsilva-sh/output/github-snake.svg" alt="Cobrinha percorrendo o calendário de contribuições" />
+  </picture>
+</div>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1f6feb,40:1f3a68,100:0d1117&height=100&section=footer" alt="" />
