@@ -28,16 +28,13 @@
 
 ### 🧰 Ferramentas
 
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/PowerShell-5391FE?style=flat-square&logo=powershell&logoColor=white" alt="PowerShell" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" alt="PHP" />
-  <img src="https://img.shields.io/badge/ServiceNow-62D84E?style=flat-square&logo=servicenow&logoColor=white" alt="ServiceNow" />
-  <img src="https://img.shields.io/badge/Securonix_SIEM-1F2937?style=flat-square" alt="Securonix" />
-  <img src="https://img.shields.io/badge/Microsoft_Defender-0078D4?style=flat-square&logo=microsoft&logoColor=white" alt="Microsoft Defender" />
-  <img src="https://img.shields.io/badge/VirusTotal-394EFF?style=flat-square&logo=virustotal&logoColor=white" alt="VirusTotal" />
-</p>
+| | |
+|---|---|
+| **SIEM e XDR** | <img src="https://img.shields.io/badge/Securonix-1F2937?style=flat-square" alt="Securonix" /> <img src="https://img.shields.io/badge/IBM_QRadar-052FAD?style=flat-square" alt="IBM QRadar" /> <img src="https://img.shields.io/badge/Microsoft_Sentinel-0078D4?style=flat-square" alt="Microsoft Sentinel" /> <img src="https://img.shields.io/badge/Harpia_SIEM-1F2937?style=flat-square" alt="Harpia SIEM" /> <img src="https://img.shields.io/badge/CrowdStrike-E01F26?style=flat-square" alt="CrowdStrike" /> <img src="https://img.shields.io/badge/Microsoft_Defender-0078D4?style=flat-square" alt="Microsoft Defender" /> |
+| **Threat intelligence** | <img src="https://img.shields.io/badge/VirusTotal-394EFF?style=flat-square&logo=virustotal&logoColor=white" alt="VirusTotal" /> <img src="https://img.shields.io/badge/AbuseIPDB-7A1F2B?style=flat-square" alt="AbuseIPDB" /> |
+| **ITSM** | <img src="https://img.shields.io/badge/ServiceNow-62D84E?style=flat-square" alt="ServiceNow" /> |
+| **Sistemas** | <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux" /> <img src="https://img.shields.io/badge/Windows-0078D4?style=flat-square" alt="Windows" /> |
+| **Linguagens** | <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" /> <img src="https://img.shields.io/badge/PowerShell-5391FE?style=flat-square" alt="PowerShell" /> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" /> <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" alt="PHP" /> |
 
 ### 📊 Atividade
 
